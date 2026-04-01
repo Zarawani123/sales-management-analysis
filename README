@@ -1,0 +1,8 @@
+ Project Overview
+This project analyzes Superstore sales data to uncover revenue trends, profitability insights, and business performance metrics.
+
+## 🛠 Tools Used
+- SQL (SQLite)
+- Python (Pandas, Matplotlib, Seaborn)
+- Power BI
+- GitHub
